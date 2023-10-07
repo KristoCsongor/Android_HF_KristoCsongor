@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityLifecycleMonitor</string>
+
+    <string name="MainActivityButton">Start ActivityTwo</string>
+    <string name="MainActivityTextView">Main Activity</string>
+
+    <string name="SecondActivityButton">Start ActivityThree</string>
+    <string name="SecondActivityTextView">Second Activity</string>
+
+    <string name="ThirdActivityTextView">Third Activity</string>
+</resources>
