@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HF03_01</string>
+    <string name="textview1">Email</string>
+    <string name="textview2">Password</string>
+    <string name="button1">Login</string>
+    <string name="button2">Home</string>
+    <string name="button3">Sign Up</string>
+</resources>

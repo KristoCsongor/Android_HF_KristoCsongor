@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HF03_02</string>
+    <string name="textview1">New Product Form</string>
+    <string name="textview2">Product Code</string>
+    <string name="textview3">Product Name</string>
+    <string name="textview4">Product Price</string>
+    <string name="button1">Add Product</string>
+    <string name="button2">Cancel</string>
+    <string name="button3">Show Products</string>
+</resources>
