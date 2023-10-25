@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">HF04</string>
+    <string name="buy">Cumpara</string>
+    <string name="sell">Vinde</string>
+    <string name="textview">TextView</string>
+    <string name="flag_description">Country flag</string>
+
+
+    <integer-array name="countryFlags">
+        <item>@drawable/eur</item>
+        <item>@drawable/usd</item>
+        <item>@drawable/gbp</item>
+        <item>@drawable/aud</item>
+        <item>@drawable/cad</item>
+        <item>@drawable/chf</item>
+        <item>@drawable/dkk</item>
+        <item>@drawable/huf</item>
+    </integer-array>
+
+    <string-array name="currencyAbbrev">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>DKK</item>
+        <item>HUF</item>
+    </string-array>
+
+    <string-array name="currencyNames">
+        <item>Euro</item>
+        <item>Dolar american</item>
+        <item>Liria sterlina</item>
+        <item>Dolar australian</item>
+        <item>Dolar canadian</item>
+        <item>Franc elvetian</item>
+        <item>Corona daneza</item>
+        <item>Forint maghiar</item>
+    </string-array>
+
+    <string-array name="buyValues">
+        <item>4,4100 RON</item>
+        <item>3,9750 RON</item>
+        <item>6.1250 RON</item>
+        <item>2.9600 RON</item>
+        <item>3.0950 RON</item>
+        <item>4.2300 RON</item>
+        <item>0.5850 RON</item>
+        <item>0.0136 RON</item>
+    </string-array>
+
+    <string-array name="sellValues">
+        <item>4,5500 RON</item>
+        <item>3,1450 RON</item>
+        <item>6.3550 RON</item>
+        <item>3.0600 RON</item>
+        <item>3.2650 RON</item>
+        <item>4.3300 RON</item>
+        <item>0.3100 RON</item>
+        <item>0.0146 RON</item>
+    </string-array>
+</resources>

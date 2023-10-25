@@ -76,7 +76,7 @@
 
             <EditText
                 android:id="@+id/price"
-                android:layout_width="wrap_content"
+                android:layout_width="269dp"
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="text"
@@ -97,20 +97,21 @@
 
             <Button
                 android:id="@+id/cancelButton"
-                android:layout_width="wrap_content"
+                android:layout_width="271dp"
                 android:layout_height="wrap_content"
                 android:stretchColumns="1"
                 android:text="@string/button2" />
         </TableRow>
 
         <TableRow
-            android:layout_width="match_parent"
+            android:layout_width="389dp"
             android:layout_height="match_parent">
 
             <Button
                 android:id="@+id/showProductsButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="426dp"
+                android:layout_height="match_parent"
+                android:layout_span="2"
                 android:stretchColumns="1"
                 android:text="@string/button3" />
         </TableRow>
