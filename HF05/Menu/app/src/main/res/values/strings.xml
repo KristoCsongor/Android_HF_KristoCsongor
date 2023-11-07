@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HF05_Menu</string>
+    <string name="rendez">Rendez</string>
+    <string name="torol">Torol</string>
+
+    <string-array name="gyumolcsok">
+        <item>Alma</item>
+        <item>Körte</item>
+        <item>Szilva</item>
+        <item>Narancs</item>
+        <item>Citrom</item>
+    </string-array>
+
+    <string name="menu_piros">Piros</string>
+    <string name="menu_zold">Zöld</string>
+    <string name="menu_sarga">Sárga</string>
+</resources>
